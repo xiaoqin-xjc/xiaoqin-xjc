@@ -2,7 +2,7 @@
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
-I like open source and all interesting things and want to try to do it.
+I Like the front end, like Vue，like to do meaningful things,I believe that anything meaningful is not easy.
 
 I want to be an interesting person and create something that can be remembered by others.
 
