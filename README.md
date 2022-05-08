@@ -2,7 +2,7 @@
 
 <img align="right" width="200" src="http://xjc.vin/bestman.png">
 
-I Like the front end, like Vue，like to do meaningful things,I believe that anything meaningful is not easy.
+I Like web Front-end, like Vue，like to do meaningful things,I believe that anything meaningful is not easy.
 
 I want to be an interesting person and create something that can be remembered by others.
 
