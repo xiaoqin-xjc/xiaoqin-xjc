@@ -16,7 +16,7 @@ I want to be an interesting person and create something that can be remembered b
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=YunYouJun&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+
 
 #### Frameworks and Tools
 
