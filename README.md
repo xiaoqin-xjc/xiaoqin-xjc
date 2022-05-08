@@ -9,15 +9,6 @@ I want to be an interesting person and create something that can be remembered b
 - 🌱 I’m currently learning Computer Graphics & FE & Drawing, and want to learn everything interesting.
 - 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine. 
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN]
----
-
-#### Languages
-
-<!-- github-stats:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-
 #### Frameworks and Tools
 
 <!-- tools:start -->
