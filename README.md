@@ -8,7 +8,8 @@ I want to be an interesting person and create something that can be remembered b
 
 - 🌱 I’m currently learning Computer Graphics & FE & Drawing, and want to learn everything interesting.
 - 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine. 
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN]
+- ❤️ I like eating 🥩, raising 🐓, playing 🎨, sleeping in 🛌 and watching 📺 [ACGN]
+- 😈 My character is super good， won't be angry because I can't type the code
 #### Frameworks and Tools
 
 <!-- tools:start -->
@@ -24,6 +25,5 @@ I want to be an interesting person and create something that can be remembered b
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xiaoqin-xjc&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoqin-xjc&theme=dark&layout=compact)
 
 <!-- tools:end -->
