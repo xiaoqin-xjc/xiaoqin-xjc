@@ -23,5 +23,7 @@ I want to be an interesting person and create something that can be remembered b
 <code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xiaoqin-xjc&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiqoqin-xjc&theme=dark&layout=compact)
 
 <!-- tools:end -->
