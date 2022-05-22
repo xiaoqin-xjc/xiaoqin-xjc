@@ -25,7 +25,7 @@ I want to be an interesting person and create something that can be remembered b
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xiaoqin-xjc&show_icons=true&theme=dark&count_private=true)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiqoqin-xjc&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoqin-xjc&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=xiaoqin-xjc&theme=xcode)](https://github.com/sun0225SUN)
 
 
